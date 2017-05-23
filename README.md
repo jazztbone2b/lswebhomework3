@@ -11,11 +11,11 @@
 
 ```
 
-My name is:
+My name is Collin Banks.
 
-I like to:
+I like to play trombone, record music, teach, and code! Oh yeah, and play Zelda: Breath of the Wild ;)
 
-I'm learning:
+I'm learning how to code with Lambda School, Codeacedemy and FreeCodeCamp.
 
 ```
 
